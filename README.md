@@ -3,7 +3,7 @@
 This repository contains SQL queries and analysis developed as part of the Codebasics Data Analytics Bootcamp. The project focuses on providing ad-hoc business intelligence to **AtliQ Hardwares**, a rapidly growing global FMCG (Fast-Moving Consumer Goods) company.
 
 ## Project Goal
-The primary goal of this project is to leverage SQL (MySQL) to extract actionable insights from AtliQ Hardwares' sales, product, and customer data. These insights will help the company make data-driven decisions related to market performance, product strategy, customer behavior, and overall sales optimization.
+The primary goal of this project is to leverage SQL (MySQL) to extract actionable insights from AtliQ Hardwares' sales, product, and customer data. These insights aim to help the company make data-driven decisions related to market performance, product strategy, customer behavior, and overall sales optimization.
 
 ## Data Source
 The dataset used for this project is a hypothetical consumer goods database provided by Codebasics, named `gdb023` (or `atliq_hardware_db`).
@@ -52,14 +52,26 @@ This project aims to answer the following business questions for AtliQ Hardwares
 
 ## Technologies Used
 * **Database:** MySQL
-* **Environment:** Codebasics Data Analytics Bootcamp
+* **Data Analysis & Visualization (Planned):** Power BI, Microsoft Excel
+* **Presentation:** Microsoft PowerPoint, LinkedIn Video
 
 ## Repository Structure
 * `sql_queries/` : This directory will contain all the SQL query files, organized by problem statement.
     * `q1_atliq_exclusive_markets.sql`
     * `q2_unique_product_increase.sql`
     * ... (and so on for all 10 queries)
+* `screenshots/` (Planned): This directory will contain screenshots of the SQL queries and their results.
 * `README.md` : This file provides an overview of the project.
 
 ## How to Use / Run Queries
 To execute these queries, you will need a MySQL client connected to a database loaded with the `gdb023` (or `atliq_hardware_db`) schema and data. Each `.sql` file in the `sql_queries/` directory contains a standalone query designed to answer its respective problem statement.
+
+---
+
+## Project Presentation
+The insights derived from this project will be presented through:
+* **Visualizations:** Using tools like Power BI and Excel for interactive dashboards and charts.
+* **Presentation Deck:** A PowerPoint presentation summarizing the key findings and recommendations.
+* **Video Walkthrough:** A video presentation, to be shared on LinkedIn, showcasing the problem-solving approach, SQL queries, visualizations, and overall insights.
+
+This comprehensive approach aims to clearly demonstrate the data analysis process from raw data to actionable business intelligence.
