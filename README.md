@@ -80,5 +80,5 @@ This comprehensive approach aims to clearly demonstrate the data analysis proces
 
 ## Author
 * Roshith Pulikkal
-    * [Project Portfolio website] [https://codebasics.io/portfolio/ROSHITH-PULIKKAL]
-    * [LinkedIn Profile] [https://www.linkedin.com/in/roshith-pulikkal-9a173a332/]
+    * Project Portfolio website [https://codebasics.io/portfolio/ROSHITH-PULIKKAL]
+    * LinkedIn Profile [https://www.linkedin.com/in/roshith-pulikkal-9a173a332/]
