@@ -52,15 +52,15 @@ This project aims to answer the following business questions for AtliQ Hardwares
 
 ## Technologies Used
 * **Database:** MySQL
-* **Data Analysis & Visualization (Planned):** Power BI, Microsoft Excel
-* **Presentation:** Microsoft PowerPoint, LinkedIn Video
+* **Data Analysis & Visualization:** Power BI
+* **Presentation:** Microsoft PowerPoint
 
 ## Repository Structure
 * `sql_queries/` : This directory will contain all the SQL query files, organized by problem statement.
     * `q1_atliq_exclusive_markets.sql`
     * `q2_unique_product_increase.sql`
     * ... (and so on for all 10 queries)
-* `screenshots/` (Planned): This directory will contain screenshots of the SQL queries and their results.
+* `output_csv_files/` : This directory will contain screenshots of the SQL queries and their results.
 * `README.md` : This file provides an overview of the project.
 
 ## How to Use / Run Queries
@@ -69,9 +69,9 @@ To execute these queries, you will need a MySQL client connected to a database l
 ---
 
 ## Project Presentation
-The insights derived from this project will be presented through:
-* **Visualizations:** Using tools like Power BI and Excel for interactive dashboards and charts.
+The insights derived from this project is presented through:
+* **Visualizations:** Using Power BI.
 * **Presentation Deck:** A PowerPoint presentation summarizing the key findings and recommendations.
-* **Video Walkthrough:** A video presentation, to be shared on LinkedIn, showcasing the problem-solving approach, SQL queries, visualizations, and overall insights.
+
 
 This comprehensive approach aims to clearly demonstrate the data analysis process from raw data to actionable business intelligence.
