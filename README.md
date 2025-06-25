@@ -57,8 +57,8 @@ This project aims to answer the following business questions for AtliQ Hardwares
 
 ## Repository Structure
 * `sql_queries/` : This directory will contain all the SQL query files, organized by problem statement.
-    * `q1_atliq_exclusive_markets.sql`
-    * `q2_unique_product_increase.sql`
+    * `req1.sql`
+    * `req2.sql`
     * ... (and so on for all 10 queries)
 * `output_csv_files/` : This directory will contain screenshots of the SQL queries and their results.
 * `README.md` : This file provides an overview of the project.
@@ -75,3 +75,10 @@ The insights derived from this project is presented through:
 
 
 This comprehensive approach aims to clearly demonstrate the data analysis process from raw data to actionable business intelligence.
+
+---
+
+## Author
+* Roshith Pulikkal
+    * [https://codebasics.io/portfolio/ROSHITH-PULIKKAL]
+    * [https://www.linkedin.com/in/roshith-pulikkal-9a173a332/]
